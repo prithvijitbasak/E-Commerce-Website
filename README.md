@@ -1,1 +1,5 @@
-This is responsive e-commerce website. I have used only HTML and CSS for this mini project. I have tried to clone the Flipkart. 
+# E-Commerce Website
+This is fully responsive E-Commerce Website created using HTML5, CSS3. It is one of my beginner projects during learning Web Development.
+## Tech Stack
+HTML5, CSS3
+## Hosted Link
